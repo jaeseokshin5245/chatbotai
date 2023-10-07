@@ -71,7 +71,8 @@ Discord, Slack
 #### ⛰️ 테스트 실행 환경 / Test execution enviornment
 #### 📌 (하이퍼) 파라미터 설정 / (Hyper) Parameter setting
 ### 📐 테스트 평가 지표 / Index of test evaluation 
-## 라이센스 / License
-## 감사 인사 / Acknowledgment
+## 📎 참고 및 사용 자료 / References
+## 💳 라이센스 / License
+## 🙇 후기 / Acknowledgment
 
 
