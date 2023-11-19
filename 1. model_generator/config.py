@@ -1,0 +1,11 @@
+BATCH_SIZE = 32
+EPOCHS = 3
+Q_TKN = "<usr>"
+A_TKN = "<sys>"
+BOS = "</s>"
+EOS = "</s>"
+SENT = '<unused1>'
+PAD = "<pad>"
+MASK = "<unused0>"
+LEARNING_RATE = 3E-5
+EPSILION = 1E-08
